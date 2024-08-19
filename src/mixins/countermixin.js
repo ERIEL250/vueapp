@@ -4,7 +4,7 @@ export default{
     },
     methods:{
         counter(){
-            this.count+=2
+            this.count+=9
         }
     }
 }
